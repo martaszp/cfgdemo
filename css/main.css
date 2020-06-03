@@ -1,0 +1,24 @@
+h1 {
+    color: aqua;
+}
+
+h3 {
+    font-size: large;
+    text-decoration: underline;
+}
+
+* {
+    font-family: 'Poppins', serif;
+}
+
+.bandlist {
+    border: 10px solid crimson;
+    padding: 50px;
+    margin: 20px;
+}
+
+.songlist {
+    border: 10px solid rgb(171, 124, 216);
+    padding: 50px;
+    margin: 20px;
+}
